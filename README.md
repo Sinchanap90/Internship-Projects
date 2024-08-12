@@ -1,5 +1,6 @@
 # Internship-Projects
-# Expense Tracker is a simple Project using HTML,CSS,JS where you can add you're  expenses and total income will be calculated and it is a very simple daily expense tracker you have the options like rent,travel expenses etc.... options in the app and is very effictive working.
+
+## Expense Tracker is a simple Project using HTML,CSS,JS where you can add you're  expenses and total income will be calculated and it is a very simple daily expense tracker you have the options like rent,travel expenses etc.... options in the app and is very effictive working.
 
 ## Basic Calculator
 
